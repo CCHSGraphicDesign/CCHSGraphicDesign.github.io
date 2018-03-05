@@ -53,4 +53,9 @@ img {
     border:5px solid white;
 }
 
+/*.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}*/
 
